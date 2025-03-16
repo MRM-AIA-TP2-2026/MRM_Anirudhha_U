@@ -40,7 +40,7 @@ Each message contains a username followed by the actual message<br>
 ### RQT Graph
 It helps us to understand, debug, and analyze how different nodes interact.<br>
 
-![ROS2 Chatroom rqt_graph](RQT Graph.png)
+![ROS2 Chatroom rqt_graph](https://github.com/MRM-AIA-TP2-2026/MRM_Anirudhha_U/blob/b2e69a56bbb79cb72943904e062cfcde6767fa17/ROS_tasks/Chatroom/RQT%20Graph.png)
 
 ### Video link
 https://youtu.be/I6hIzIbje1M
