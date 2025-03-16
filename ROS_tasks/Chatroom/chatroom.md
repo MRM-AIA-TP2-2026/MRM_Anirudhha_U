@@ -42,6 +42,8 @@ It helps us to understand, debug, and analyze how different nodes interact.<br>
 
 ![ROS2 Chatroom rqt_graph](https://github.com/MRM-AIA-TP2-2026/MRM_Anirudhha_U/blob/b2e69a56bbb79cb72943904e062cfcde6767fa17/ROS_tasks/Chatroom/RQT%20Graph.png)
 
+![ROS2 Chatroom rqt_graph](https://github.com/MRM-AIA-TP2-2026/MRM_Anirudhha_U/blob/68ab6c67dd2127d48824b3644f20216df4d1bb73/ROS_tasks/Chatroom/RQT%20Graph1%20.png)
+
 ### Video link
 https://youtu.be/I6hIzIbje1M
 
